@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\bin\Debug\net6.0\max iz 3-h chisel.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\bin\Debug\net6.0\max iz 3-h chisel.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\bin\Debug\net6.0\max iz 3-h chisel.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\bin\Debug\net6.0\max iz 3-h chisel.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\bin\Debug\net6.0\max iz 3-h chisel.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\obj\Debug\net6.0\max iz 3-h chisel.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\obj\Debug\net6.0\max iz 3-h chisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\obj\Debug\net6.0\max iz 3-h chisel.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\obj\Debug\net6.0\max iz 3-h chisel.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\obj\Debug\net6.0\max iz 3-h chisel.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\obj\Debug\net6.0\max iz 3-h chisel.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\obj\Debug\net6.0\refint\max iz 3-h chisel.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\obj\Debug\net6.0\max iz 3-h chisel.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\obj\Debug\net6.0\max iz 3-h chisel.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\max iz 3-h chisel\obj\Debug\net6.0\ref\max iz 3-h chisel.dll
