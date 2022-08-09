@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\obj\Debug\net6.0\ot 1 do N.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\obj\Debug\net6.0\ot 1 do N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\obj\Debug\net6.0\ot 1 do N.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\obj\Debug\net6.0\ot 1 do N.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\obj\Debug\net6.0\ot 1 do N.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\bin\Debug\net6.0\ot 1 do N.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\bin\Debug\net6.0\ot 1 do N.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\bin\Debug\net6.0\ot 1 do N.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\bin\Debug\net6.0\ot 1 do N.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\bin\Debug\net6.0\ot 1 do N.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\obj\Debug\net6.0\ot 1 do N.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\obj\Debug\net6.0\refint\ot 1 do N.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\obj\Debug\net6.0\ot 1 do N.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\obj\Debug\net6.0\ot 1 do N.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-1\ot 1 do N\obj\Debug\net6.0\ref\ot 1 do N.dll
